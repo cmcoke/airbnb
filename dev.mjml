@@ -59,7 +59,7 @@
     </mj-section>
 
     <mj-raw>
-      <!-- find your next beach getaway -->
+      <!-- find your next beach getaway button-->
     </mj-raw>
     <mj-section  background-color="#ffffff" padding="0px 0px 30px 0px">
       <mj-column>
@@ -69,8 +69,58 @@
       </mj-column>
     </mj-section>
 
+    <mj-raw>
+      <!-- locations 1 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 11px 0px 11px">
+      <mj-group>
+        <mj-column width="50%" padding="0px 10px">
+          <mj-image src="https://placeimg.com/300/400/any" href="https://www.airbnb.com/"/>
+        </mj-column>
+        <mj-column width="50%" padding="0px 10px">
+          <mj-image src="https://placeimg.com/300/400/any" href="https://www.airbnb.com/"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
 
+    <mj-raw>
+      <!-- locations 2 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px 11px 0px 11px">
+      <mj-group>
+        <mj-column width="50%" padding="0px 10px">
+          <mj-image src="https://placeimg.com/300/400/any" href="https://www.airbnb.com/"/>
+        </mj-column>
+        <mj-column width="50%" padding="0px 10px">
+          <mj-image src="https://placeimg.com/300/400/any" href="https://www.airbnb.com/"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
 
+    <mj-raw>
+      <!-- locations 3 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px 11px 0px 11px">
+      <mj-group>
+        <mj-column width="50%" padding="0px 10px">
+          <mj-image src="https://placeimg.com/300/400/any" href="https://www.airbnb.com/"/>
+        </mj-column>
+        <mj-column width="50%" padding="0px 10px">
+          <mj-image src="https://placeimg.com/300/400/any" href="https://www.airbnb.com/"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-raw>
+      <!-- find a place to stay button-->
+    </mj-raw>
+    <mj-section  background-color="#ffffff" padding="30px 0px 30px 0px">
+      <mj-column>
+        <mj-button href="https://www.airbnb.com/" font-family="questrial" font-size="16px" background-color="#FF5A5F">
+          Find A Place To Stay
+        </mj-button>
+      </mj-column>
+    </mj-section>
 
 
 
