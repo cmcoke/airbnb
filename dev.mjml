@@ -122,8 +122,53 @@
       </mj-column>
     </mj-section>
 
+    <mj-raw>
+      <!-- line divider -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 11px 0px 11px">
+      <mj-column>
+         <mj-divider border-width="2px" border-style="solid" border-color="#F0F0F0" />
+      </mj-column>
+    </mj-section>
 
+    <mj-raw>
+      <!-- social media links -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="30px 11px 0px 11px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" align="center">
+          <mj-social-element href="#" src="https://i.postimg.cc/VLfFYQxZ/facebook.png" padding="0px 12px 0 12px"></mj-social-element>
+          <mj-social-element href="#" src="https://i.postimg.cc/Sxj7MLNW/instagram.png" padding="0px 12px 0 12px"></mj-social-element>
+          <mj-social-element href="#" src="https://i.postimg.cc/8z3dBFjx/pintrest.png" padding="0px 12px 0 12px"></mj-social-element>
+          <mj-social-element href="#" src="https://i.postimg.cc/dt5j3Nvs/twitter.png" padding="0px 12px 0 12px"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
 
+    <mj-raw>
+      <!-- address -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="10px 11px 0px 11px">
+      <mj-column>
+        <mj-text font-family="questrial" align="center" line-height="7px">
+          <p>Sent with &#9829; from Airbnb, Inc.</p>
+          <p>888 Brannan St, San Francisco, CA 94103.</p>
+          <a href="https://www.airbnb.com/" style="color:black;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- google play & apple store -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="30px 11px 30px 11px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" align="center">
+          <mj-social-element href="#" src="https://i.postimg.cc/7ZdPNzSv/google.png" padding="0px 12px 0 12px"></mj-social-element>
+          <mj-social-element href="#" src="https://i.postimg.cc/Qx6dHwtd/apple.png" padding="0px 12px 0 12px"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
 
   </mj-body>
 
