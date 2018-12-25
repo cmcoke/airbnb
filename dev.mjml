@@ -17,7 +17,7 @@
     </mj-attributes>
   </mj-head>
 
-  <mj-body background-color="#F0F0F0">
+  <mj-body background-color="#F5F5F5">
 
     <mj-raw>
       <!-- logo, Get 25%, Become a Host, Log In-->
@@ -43,7 +43,7 @@
     </mj-raw>
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-image src="https://placeimg.com/700/350/any" />
+        <mj-image src="https://i.postimg.cc/wvdTZbg5/hero.jpg" alt="woman in pool looking at the sea"/>
       </mj-column>
     </mj-section>
 
@@ -75,10 +75,10 @@
     <mj-section background-color="#ffffff" padding="0px 11px 0px 11px">
       <mj-group>
         <mj-column width="50%" padding="0px 10px">
-          <mj-image src="https://placeimg.com/300/400/any" href="https://www.airbnb.com/"/>
+          <mj-image src="https://i.postimg.cc/9MvP62z8/amalfi-coast.jpg" alt="Amalfi Coast" href="https://www.airbnb.com/"/>
         </mj-column>
         <mj-column width="50%" padding="0px 10px">
-          <mj-image src="https://placeimg.com/300/400/any" href="https://www.airbnb.com/"/>
+          <mj-image src="https://i.postimg.cc/3JjjcPh1/bahamas.jpg" alt="Bahamas" href="https://www.airbnb.com/"/>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -89,10 +89,10 @@
     <mj-section background-color="#ffffff" padding="20px 11px 0px 11px">
       <mj-group>
         <mj-column width="50%" padding="0px 10px">
-          <mj-image src="https://placeimg.com/300/400/any" href="https://www.airbnb.com/"/>
+          <mj-image src="https://i.postimg.cc/59CSwXkZ/california.jpg" alt="California" href="https://www.airbnb.com/"/>
         </mj-column>
         <mj-column width="50%" padding="0px 10px">
-          <mj-image src="https://placeimg.com/300/400/any" href="https://www.airbnb.com/"/>
+          <mj-image src="https://i.postimg.cc/T1gjGsDR/greece.jpg" alt="Greece" href="https://www.airbnb.com/"/>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -103,10 +103,10 @@
     <mj-section background-color="#ffffff" padding="20px 11px 0px 11px">
       <mj-group>
         <mj-column width="50%" padding="0px 10px">
-          <mj-image src="https://placeimg.com/300/400/any" href="https://www.airbnb.com/"/>
+          <mj-image src="https://i.postimg.cc/xTVyg9wq/maldives.jpg" alt="mMldives" href="https://www.airbnb.com/"/>
         </mj-column>
         <mj-column width="50%" padding="0px 10px">
-          <mj-image src="https://placeimg.com/300/400/any" href="https://www.airbnb.com/"/>
+          <mj-image src="https://i.postimg.cc/YCpNKbqH/mexico.jpg" alt="Mexico" href="https://www.airbnb.com/"/>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -150,7 +150,7 @@
     </mj-raw>
     <mj-section background-color="#ffffff" padding="10px 11px 0px 11px">
       <mj-column>
-        <mj-text font-family="questrial" align="center" line-height="7px">
+        <mj-text font-family="questrial" align="center">
           <p>Sent with &#9829; from Airbnb, Inc.</p>
           <p>888 Brannan St, San Francisco, CA 94103.</p>
           <a href="https://www.airbnb.com/" style="color:black;">Unsubscribe</a>
