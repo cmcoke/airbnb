@@ -52,7 +52,7 @@
     </mj-raw>
     <mj-section background-color="#ffffff" padding="10px 15px 10px 15px">
       <mj-column>
-        <mj-text font-family="questrial" font-size="15px" line-height="22px">
+        <mj-text font-family="'questrial', sans-serif" font-size="15px" line-height="22px">
           <p>Ever dream of staying on your own <span>private island</span>? If so, we've got you covered. With thousands of unique beach destinations, find the perfect spot to dip your feet in the sea.</p>
         </mj-text>
       </mj-column>
@@ -63,7 +63,7 @@
     </mj-raw>
     <mj-section  background-color="#ffffff" padding="0px 0px 30px 0px">
       <mj-column>
-        <mj-button href="https://www.airbnb.com/" font-family="questrial" font-size="16px" background-color="#FF5A5F">
+        <mj-button href="https://www.airbnb.com/" font-family="'questrial', sans-serif" font-size="16px" background-color="#FF5A5F">
           Find Your Next Beach Getaway
         </mj-button>
       </mj-column>
@@ -116,7 +116,7 @@
     </mj-raw>
     <mj-section  background-color="#ffffff" padding="30px 0px 30px 0px">
       <mj-column>
-        <mj-button href="https://www.airbnb.com/" font-family="questrial" font-size="16px" background-color="#FF5A5F">
+        <mj-button href="https://www.airbnb.com/" font-family="'questrial', sans-serif" font-size="16px" background-color="#FF5A5F">
           Find A Place To Stay
         </mj-button>
       </mj-column>
@@ -150,7 +150,7 @@
     </mj-raw>
     <mj-section background-color="#ffffff" padding="10px 11px 0px 11px">
       <mj-column>
-        <mj-text font-family="questrial" align="center">
+        <mj-text font-family="'questrial', sans-serif" align="center">
           <p>Sent with &#9829; from Airbnb, Inc.</p>
           <p>888 Brannan St, San Francisco, CA 94103.</p>
           <a href="https://www.airbnb.com/" style="color:black;">Unsubscribe</a>
@@ -184,8 +184,8 @@
     </mj-raw>
     <mj-section background-color="white" padding="0px 20px 10px 20px">
       <mj-column>
-        <mj-text font-family="questrial" font-size="13px" line-height="19px" align="center">
-           <p>To Whom It May Concern, this email is a personal project of mine and not that of Airbnb.</p>
+        <mj-text font-family="'questrial', sans-serif" font-size="13px" line-height="19px" align="center">
+          <p>Please note that this email is a personal project of mine and not that of Airbnb.</p>
         </mj-text>
       </mj-column>
     </mj-section>
